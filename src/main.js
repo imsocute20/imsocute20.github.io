@@ -3,8 +3,11 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import Nav from '@/components/Nav'
 
 Vue.config.productionTip = false
+// eslint-disable-next-line no-undef
+Vue.component('Nav', Nav)
 
 /* eslint-disable no-new */
 new Vue({

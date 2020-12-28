@@ -1,14 +1,15 @@
 <template>
-  <div id="app">
-    <router-view/>
-  </div>
+    <div>
+    <Nav/>
+    </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'Money'
 }
 </script>
 
-<style>
+<style scoped>
+
 </style>
