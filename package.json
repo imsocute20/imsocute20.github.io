@@ -1,8 +1,8 @@
 {
-  "name": "y",
+  "name": "NoteBook",
   "version": "1.0.0",
-  "description": "y",
-  "author": "y",
+  "description": "小白的小练习",
+  "author": "cw",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
